@@ -7,14 +7,10 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -33,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: <https://kirlosbasta.github.com/four-card-feature-section>
+- Live Site URL: <https://kirlosbasta.github.io/four-card-feature-section/>
 
 ## My process
 
